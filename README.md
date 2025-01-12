@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi, I'm Aknur Mansurkhan!  
 
-<!--
-**whiteraay/whiteraay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student with a passion for **Data Analytics**, **Artificial Intelligence**, and **Machine Learning**.  
+🎓 Pursuing **Computer Science Engineering** at [Suleyman Demirel University](https://sdu.edu.kz/) with a GPA of **3.76**.  
+📊 Skilled and interested in solving **mathematical** and **programming problems**.  
+💬 Fluent in **Kazakh (C1)**, **English (B2)**, and **Russian (B2)**, with beginner proficiency in **Turkish (A2)**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect  
+📧 [mansurkhanaqnur.com@gmail.com](mailto:mansurkhanaqnur.com@gmail.com)  
+📍 Shymkent, Kazakhstan  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aknur-m-ba809a330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+---
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteraay&show_icons=true&theme=radical)
