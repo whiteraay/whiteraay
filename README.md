@@ -10,7 +10,8 @@
 ### 📫 Let's Connect  
 📧 [mansurkhanaqnur.com@gmail.com](mailto:mansurkhanaqnur.com@gmail.com)  
 📍 Shymkent, Kazakhstan  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/aknur-m-ba809a330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aknur-m-ba809a330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)\
+🐳 [Leetcode Account](https://leetcode.com/u/whited_ray/)
 
 ---
 ### 📊 GitHub Stats  
