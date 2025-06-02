@@ -1,5 +1,4 @@
 ### 👋 Hi, I'm Aknur Mansurkhan!  
-
 💻 Computer Science student with a passion for **Data Analytics**, **Artificial Intelligence**, and **Machine Learning**.  
 🎓 Pursuing **Computer Science Engineering** at [Suleyman Demirel University](https://sdu.edu.kz/) with a GPA of **3.78**.
 📊 Skilled and interested in solving **mathematical** and **programming problems**.  
