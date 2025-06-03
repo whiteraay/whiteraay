@@ -3,7 +3,6 @@
 🎓 Computer Science Engineering student at [Suleyman Demirel University](https://sdu.edu.kz/) | GPA: **3.78**  
 💻 Interested in **Data Analytics**, **AI**, and **Machine Learning**  
 📊 Strong skills in Python, SQL, Power BI, and solving algorithmic problems  
-📑 [View My Transcript (PDF)](https://drive.google.com/file/d/14GmkPVNZ_jUc1CvJGbankeT_qD2mWgiC/view?usp=sharing)
 
 ---
 
