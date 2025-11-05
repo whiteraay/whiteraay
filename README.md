@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Aknur Mansurkhan!
 
-🎓 Computer Science Engineering student at [Suleyman Demirel University](https://sdu.edu.kz/) | GPA: **3.78**  
+🎓 Computer Science Engineering student at [Suleyman Demirel University](https://sdu.edu.kz/) | GPA: **3.79**  
 💻 Interested in **Data Analytics**, **AI**, and **Machine Learning**  
 📊 Strong skills in Python, SQL, Power BI, and solving algorithmic problems  
 
@@ -30,7 +30,7 @@
 
 ### 🌐 Languages
 
-Kazakh (C1) Native 🇰🇿 | English (B2) 🇬🇧 | Russian (B2) 🇷🇺 | Turkish (A2) 🇹🇷 | Korean (A0) 🇰🇷
+Kazakh (C1) Native 🇰🇿 | English (B2) 🇬🇧 | Russian (B2) 🇷🇺 | Turkish (A2) 🇹🇷 | Korean (A1) 🇰🇷
 
 ---
 
