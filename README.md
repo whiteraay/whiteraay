@@ -36,13 +36,8 @@ Kazakh (C1) Native 🇰🇿 | English (B2) 🇬🇧 | Russian (B2) 🇷🇺 | Tu
 
 ### 📫 Let`s Connect
 
-📍 Shymkent, Kazakhstan  
+📍 Shymkent, Almaty, Kazakhstan  
 📧 [Email](mailto:mansurkhanaqnur.com@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/aknur-m-ba809a330)  
 💡 [Leetcode](https://leetcode.com/u/whited_ray/)
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whiteraay&show_icons=true&theme=radical)
