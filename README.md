@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Aknur Mansurkhan!
+###  Hi, I'm Aknur Mansurkhan!
 
 🎓 Computer Science Engineering student at [Suleyman Demirel University](https://sdu.edu.kz/) | GPA: **3.79**  
 💻 Interested in **Data Analytics**, **AI**, and **Machine Learning**  
@@ -6,23 +6,10 @@
 
 ---
 
-### 🚀 Projects
-
-- 🔍 [**Weather Analysis in Almaty**](https://github.com/whiteraay/-AnalysisofRecentWeatherConditionsinAlmaty-)  
-  *Python, Jupyter, Matplotlib* — A data analysis project on recent weather trends.
-
-- 🐍 [**Snake Game**](https://github.com/whiteraay/SnakeGame)  
-  *Java, JavaFX* — Classic Snake game with GUI elements.
-
-- 🍕 [**Scholar Slice Pizzeria**](https://github.com/whiteraay/ScholarSlicePizzeria)  
-  *Java* — Command-line app simulating a pizza order system.
-
----
-
-### 💡 Skills
+### Skills
 
 - **Languages:** Python, Java, SQL  
-- **Tools:** Power BI, Excel, Jupyter Notebook, VS Code, Git  
+- **Tools:** Power BI, Excel, Jupyter Notebook, Google Colab, VS Code, Git  
 - **Math:** Probability, Statistics, Calculus, Discrete Math
 - **Algorithms:** Algorithms and Data Structures
 
