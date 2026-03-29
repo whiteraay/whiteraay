@@ -8,7 +8,7 @@
 
 ### Skills
 
-- **Languages:** Python, Java, SQL  
+- **Tecch Languages:** Python, Java, SQL  
 - **Tools:** Power BI, Excel, Jupyter Notebook, Google Colab, VS Code, Github  
 - **Math:** Probability, Statistics, Calculus, Discrete Math
 - **Algorithms:** Algorithms and Data Structures
