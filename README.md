@@ -94,10 +94,26 @@ Co-author. Benchmarked and analyzed BST, Red-Black, Segment, Ternary, and N-ary 
 - 🎓 **BF Mereke Scholarship Recipient & Lead Volunteer** (2025 – Present)
 - 🎓 **Freedom Data Science Program** — Selected through multi-stage engineering evaluation (2025–2026)
 - 🎓 **ML National Educational Program** — Itech Research & TechOrda Grant Recipient (2025–2026)
-- 🔬 **SDU DA Lab Assistant** — Statistical modeling and dashboard development for academic analytics
+
 
 ---
 
+## 📊 GitHub Analytics
+
+Here is a quick look at my open-source activity, coding habits, and repository metrics.
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whiteraay&show_icons=true&theme=tokyonight&count_private=true" alt="Aknur's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whiteraay&layout=compact&theme=tokyonight" alt="Aknur's Top Languages" width="48%" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whiteraay&theme=tokyonight" alt="Aknur's Contribution Graph" width="100%" />
+</p>
+
+---
 ## 🌐 Languages
 
 | Language | Level |
