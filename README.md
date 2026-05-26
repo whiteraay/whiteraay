@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Engineering Student · Data Scientist · ML Engineer</b><br/>
-  <a href="https://sdu.edu.kz/">Suleyman Demirel University</a> — GPA: <b>3.82</b> · Almaty, Kazakhstan 🇰🇿
+  <a href="https://sdu.edu.kz/">Suleyman Demirel University</a> — GPA: <b>3.85</b> · Almaty, Kazakhstan 🇰🇿
 </p>
 
 <p align="center">
