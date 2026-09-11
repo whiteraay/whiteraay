@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Aknur Mansurkhan 👋</h1>
+<h1 align="center">Hi, I'm Aknur Mansurkhan👋</h1>
 
 <p align="center">
   <b>Computer Science Engineering Student · Data Scientist · ML Engineer</b><br/>
