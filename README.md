@@ -98,22 +98,6 @@ Co-author. Benchmarked and analyzed BST, Red-Black, Segment, Ternary, and N-ary 
 
 ---
 
-## 📊 GitHub Analytics
-
-Here is a quick look at my open-source activity, coding habits, and repository metrics.
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=whiteraay&show_icons=true&theme=tokyonight&count_private=true" alt="Aknur's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=whiteraay&layout=compact&theme=tokyonight" alt="Aknur's Top Languages" width="48%" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whiteraay&theme=tokyonight" alt="Aknur's Contribution Graph" width="100%" />
-</p>
-
----
 ## 🌐 Languages
 
 | Language | Level |
