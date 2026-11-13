@@ -103,10 +103,10 @@ Co-author. Benchmarked and analyzed BST, Red-Black, Segment, Ternary, and N-ary 
 | Language | Level |
 |---|---|
 | Kazakh 🇰🇿 | Native (C2) |
-| English 🇬🇧 | B1+ |
-| Russian 🇷🇺 | B1+ |
+| English 🇬🇧 | B2+ |
+| Russian 🇷🇺 | B2+ |
 | Turkish 🇹🇷 | A2 |
-| Korean 🇰🇷 | A1 |
+| Korean 🇰🇷 | A2 |
 
 ---
 
